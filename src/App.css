@@ -16,8 +16,16 @@
 
 .App-title {
   font-size: 1.5em;
-}
+} 
 
 .App-intro {
   font-size: large;
+}
+
+.header {
+  font-weight: bold;
+}
+
+div.ui.seven.cards {
+  margin-left: 50%;
 }
